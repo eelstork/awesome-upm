@@ -25,6 +25,7 @@
 * NaughtyAttributes (fork): https://github.com/JimmyCushnie/NaughtyAttributes
 * UI Shapes Kit (fork): https://github.com/JimmyCushnie/ui-shapes-kit_jimmyfork/
 * SUCC: http://www.succ.software/
+* Prolog - Automated logger and interactive console: https://github.com/active-logic/prolog
 
 # UPM Utilities
 
